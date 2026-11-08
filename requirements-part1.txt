@@ -1,0 +1,6 @@
+requests
+psutil
+evdev
+pillow
+mcp
+opencv-python-headless

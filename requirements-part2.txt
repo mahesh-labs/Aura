@@ -1,0 +1,5 @@
+-r requirements-part1.txt
+numpy
+sounddevice
+faster-whisper
+kokoro-onnx

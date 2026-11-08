@@ -1,0 +1,16 @@
+singleton Theme 1.0 Theme.qml
+Chip 1.0 Chip.qml
+IconButton 1.0 IconButton.qml
+ToolTipLabel 1.0 ToolTipLabel.qml
+ConfirmBar 1.0 ConfirmBar.qml
+ChatInput 1.0 ChatInput.qml
+MessageList 1.0 MessageList.qml
+Toast 1.0 Toast.qml
+ActivityPage 1.0 ActivityPage.qml
+SettingsPage 1.0 SettingsPage.qml
+GlowOrb 1.0 GlowOrb.qml
+AuraBackground 1.0 AuraBackground.qml
+Panel 1.0 Panel.qml
+TitleBar 1.0 TitleBar.qml
+ResizeEdges 1.0 ResizeEdges.qml
+BlobPicker 1.0 BlobPicker.qml
